@@ -1,8 +1,7 @@
 # Olá Mundo
- primeiro repositório versionado 
 
-Curso em Vídeo
+Primeiro repositório versionado.
 
-essa linha eu adicionei diretamente no site
+Essa linha eu adicionei diretamente no site.
   
-  estou  **aprendendo** *markdown*.
+ Estou  **aprendendo** *markdown*.
